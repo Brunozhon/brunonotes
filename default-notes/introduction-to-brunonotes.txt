@@ -1,0 +1,6 @@
+Welcome to BrunoNotes!
+----------------------
+
+BrunoNotes is a plain text editor, so you don't have to worry about hashtags (#). Hashtags are used in Markdown for headings.
+
+# Heading One (in Markdown)
