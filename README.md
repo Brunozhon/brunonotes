@@ -1,2 +1,2 @@
-# brunonotes
+# BrunoNotes
 A plain text editor.
